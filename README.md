@@ -18,12 +18,6 @@ I work remotely with teams from Canada to Europe and I'm open to freelance missi
 | **Cross-platform** | React Native |
 | **Delivery** | GitHub / GitLab · CI/CD · Observability · Vercel |
 
-## 📌 Featured project
-
-### [VIMELEC](https://github.com/jeanronald22/VIMELEC) — Company website · [live](https://vimelec.vercel.app)
-Multilingual website (English, French, Chinese, Italian) for an electrical sales, engineering and maintenance company, with per-language SEO and continuous deployment.
-`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `next-intl`
-
 ## 💼 Experience
 
 | Role | Company | Period |
