@@ -18,20 +18,11 @@ I work remotely with teams from Canada to Europe and I'm open to freelance missi
 | **Cross-platform** | React Native |
 | **Delivery** | GitHub / GitLab · CI/CD · Observability · Vercel |
 
-## 📌 Featured projects
-
-### [Ruche](https://github.com/jeanronald22/RucheApp) — Multi-tenant B2B inventory SaaS
-Android app for field agents, backed by a Spring Boot / Kotlin API and a Next.js dashboard (in production).
-Barcode scanning with CameraX + ML Kit, real-time stock movements across warehouses, role-based authentication.
-`Kotlin` `Jetpack Compose` `Clean Architecture` `Hilt` `Room` `Spring Boot` `Next.js`
+## 📌 Featured project
 
 ### [VIMELEC](https://github.com/jeanronald22/VIMELEC) — Company website · [live](https://vimelec.vercel.app)
 Multilingual website (English, French, Chinese, Italian) for an electrical sales, engineering and maintenance company, with per-language SEO and continuous deployment.
 `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `next-intl`
-
-### [Library Self-Checkout System](https://github.com/jeanronald22/Library-self-checkout-system)
-Control software for a library self-service kiosk: book checkout and return, with Excel files used as the data store.
-`Java` `JavaFX` `Apache POI`
 
 ## 💼 Experience
 
